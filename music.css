@@ -9,7 +9,7 @@
 
 .section{
 
-    background-color:#e9ecef;
+    
     text-align: center;
     padding-top: 75px;
     font-family: Arial, Helvetica, sans-serif;
@@ -17,26 +17,8 @@
     padding-left: 50px;
     padding-right: 50px;
 }
-.section2{
-
-    background-color:#e9ecef;
-    text-align: center;
-    padding-top: 12px;
-    padding-left: 12px;
-    font-family: Arial, Helvetica, sans-serif;
-    height: 593px;
-    padding-right: 12px;
-}
-
-.section3{
-    background-color:#e9ecef;
-    height: 1700px;
-    padding-top: 12px;
 
 
-
-
-}
 
 
 .button{
